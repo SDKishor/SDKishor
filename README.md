@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SDKishor
 - 👀 I’m interested in ...coding, gaming
-- 🌱 I’m currently learning ...react freamwork
+- 🌱 I’m currently learning ...Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... KishorSutradhar32@gmail.com
 
